@@ -1,0 +1,33 @@
+----------------------------------------
+Student Name : Emmanuel Amposan
+Index Number : 01248870B
+Programme    : Electrical and Electrical Engineering
+Level        : 300
+GPA          : 2.30
+Attendance   : 60.00%
+Conduct      : Good
+Result       : Not Eligible - GPA below requirement
+----------------------------------------
+Student Name : Rita Hattoh
+Index Number : 01244166B
+Programme    : Clothing and Textiles
+Level        : 400
+GPA          : 3.40
+Attendance   : 80.00%
+Conduct      : Good
+Result       : Not Eligible - GPA below requirement
+----------------------------------------
+Student Name : Klutse Emmanuell
+Index Number : 0134287H
+Programme    : Cyber Security
+Level        : 100
+GPA          : 4.00
+Attendance   : 95.00%
+Conduct      : 
+Result       : Not Eligible - Conduct requirement not met
+
+=====================================
+SUMMARY REPORT
+=====================================
+Total Eligible Students     : 0
+Total Not Eligible Students : 3
